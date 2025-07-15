@@ -1,6 +1,6 @@
 # AI-Powered CRM Platform
 
-A modern CRM platform built with **Next.js**, **Tailwind CSS**, **Google OAuth**, and optional **AI features**. Designed to let marketers segment audiences, create campaigns, deliver messages, and gain intelligent insights.
+A modern CRM platform built with **Next.js**, **Google OAuth**, and optional **AI features**. Designed to let marketers segment audiences, create campaigns, deliver messages, and gain intelligent insights.
 
 ## Features
 
